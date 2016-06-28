@@ -1,0 +1,19 @@
+{
+  "name": "prt",
+  "version": "1.0.0",
+  "description": "prt for personal usage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kagos/prt.git"
+  },
+  "author": "kagos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kagos/prt/issues"
+  },
+  "homepage": "https://github.com/kagos/prt#readme"
+}
